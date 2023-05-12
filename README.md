@@ -6,7 +6,7 @@ Welcome to Stuck in Limbo! We hope you enjoy playing the game as much as we enjo
 Stuck in Limbo is a single-player adventure game that challenges players to escape from an island filled with zombie fish. The game is designed to convey a sense of freedom and constraint, adventure, and strategy while emphasizing the themes of survival and resourcefulness. The game features engaging combat mechanics, resource management, exploration, and an immersive island environment.
 
 ## Getting Started:
-1. Running from repo
+1. Running from repo<br>
 Add the following files to these specific directories:
 
 
@@ -15,7 +15,7 @@ This [file](https://drive.google.com/file/d/1rQLYLuFJVZ6uvC-HHq1EgOILVOztKuR3/vi
 
 This [file](https://drive.google.com/file/d/1DswcSu9pS41Yjmc1qwntKxc35z9-h_lH/view?usp=sharing) to the folder "Assests\Scenes\mainGame\"
 
-2. Running from build
+2. Running from build<br>
 To play the game from the build, email the creators to give access to build folder. The game is compatible with Windows and Mac operating systems. 
 
 <!-- Make sure your computer meets the minimum system requirements listed below: -->
