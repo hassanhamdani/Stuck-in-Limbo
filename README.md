@@ -8,7 +8,11 @@ Stuck in Limbo is a single-player adventure game that challenges players to esca
 ## Getting Started:
 1. Running from repo
 Add the following files to these specific directories:
+
+
 This [file](https://drive.google.com/file/d/1rQLYLuFJVZ6uvC-HHq1EgOILVOztKuR3/view?usp=share_link) to the folder "Assests\_Workshop Files\Scenes\Completed Scenes\mainGame\"
+
+
 This [file](https://drive.google.com/file/d/1DswcSu9pS41Yjmc1qwntKxc35z9-h_lH/view?usp=sharing) to the folder "Assests\Scenes\mainGame\"
 
 2. Running from build
